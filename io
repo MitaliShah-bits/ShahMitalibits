@@ -1,4 +1,3 @@
-
 <html lang="en">
 
 <head>
@@ -171,7 +170,6 @@ Journeys, Logging Defects, Defect Tracking and Prioritize Defects.
             <li>
                 Interests & Hobbies: Badminton, Baking Cakes and Traveling
             </li>
-  
            
         </ul>
     </section>
