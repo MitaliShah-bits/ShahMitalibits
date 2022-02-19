@@ -1,4 +1,3 @@
-
 <html lang="en">
 
 <head>
@@ -25,16 +24,10 @@
 <body style="width:60%;margin:0 auto">
     <section class="intro">
         <h2 style="background:#000080;color: white;padding:10px;font-weight: 500;text-align: center;">MITALI SHAH: Curriculum Vitae</h2>
-        <table width="100%" style="margin: 0 none;border: none">
-            <tr width="100%">
-                <td width="50%">
-                    <h3>Address:Pune</h3>
-                </td>
-                <td width="50%" style="text-align: right;">
-                    <h3>Mail:2020mt93578@wilp.bits-pilani.ac.in</h3>
-                </td>
-            </tr>
-        </table>
+        <p style="text-align: justify;">
+            <h3>Mail : 2020mt93578@wilp.bits-pilani.ac.in</h3>
+        </p>
+		
     </section>
     <section class="profile">
         <h3 style="background:#000080;padding:10px;color:white;text-align: center;">PROFILE SUMMARY</h3>
@@ -48,14 +41,10 @@ culture and possess the capability to work under pressure.
     </section>
     <section class="professional">
         <h3 style="background:#000080;padding:10px;color:white;text-align: center;">PROFESSIONAL EXPERIENCE</h3>
-        <table width="100%" style="margin: 0 none;border: none">
-            <tr width="100%">
-                <td width: "50%">
-					<b>Eaton, Pune</b> 
-				</td>
-                <td style="width: 50%;text-align: right;">May '21 to current</td>
-            </tr>
-        </table>
+        
+		<p style="text-align: justify;font-size: 16px;">
+            <b>Eaton Technologies  </b> (May '21 to current)
+        </p>
         <p style="text-align: justify;font-size: 16px;">
             <b>Project </b>: Eaton.com <b>Technology</b> : Adobe Experience Manager
         </p>
@@ -79,12 +68,9 @@ culture and possess the capability to work under pressure.
         </ul>
         <!-- project separation-->
         <hr>
-        <table width="100%">
-            <tr>
-                <td style="width: 50%;"><b>Apple India Pvt.Ltd., Bangalore</b> </td>
-                <td style="width: 50%;text-align: right;">Oct '18 to April '21</td>
-            </tr>
-        </table>
+		<p style="text-align: justify;font-size: 16px;">
+            <b>Apple India  </b> (Oct'18 to April'21)
+        </p>
         <p style="text-align: justify;font-size: 16px;">
             <b>Project </b>: AEM(Haiku, eDam and Bonsai) <b>Technology</b> : Adobe Experience Manager
         </p>
