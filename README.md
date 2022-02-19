@@ -48,7 +48,7 @@ culture and possess the capability to work under pressure.
     </section>
     <section class="professional">
         <h3 style="background:#000080;padding:10px;color:white;text-align: center;">PROFESSIONAL EXPERIENCE</h3>
-        <table width="100%" style="margin: 0 auto; border:none;>
+        <table width="100%" style="margin: 0 auto; border:none;">
             <tr width  ="100%">
                 <td style="width: 50%;"><b>Eaton, Pune</b> </td>
                 <td style="width: 50%;text-align: right;">May '21 to current</td>
