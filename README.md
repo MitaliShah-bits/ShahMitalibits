@@ -25,7 +25,7 @@
 <body style="width:60%;margin:0 auto">
     <section class="intro">
         <h2 style="background:#000080;color: white;padding:10px;font-weight: 500;text-align: center;">MITALI SHAH: Curriculum Vitae</h2>
-        <table width="100%" style="margin: 0 auto;">
+        <table width="100%" style="margin: 0 auto; border:none;">
             <tr width="100%">
                 <td width="50%">
                     <h3>Address:Pune</h3>
@@ -48,7 +48,7 @@ culture and possess the capability to work under pressure.
     </section>
     <section class="professional">
         <h3 style="background:#000080;padding:10px;color:white;text-align: center;">PROFESSIONAL EXPERIENCE</h3>
-        <table width="100%">
+        <table width="100%" style="margin: 0 auto; border:none;>
             <tr>
                 <td style="width: 50%;"><b>Eaton, Pune</b> </td>
                 <td style="width: 50%;text-align: right;">May '21 to current</td>
